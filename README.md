@@ -1,4 +1,4 @@
-<p align="center"> <a href="github.com/CyrusCore"><img align="center" src="https://cardivo.vercel.app/api?name=Sha-nuxx&description=Hi,I am Sha-nuxx.My oraginal name is ChamodKeshan.you can contact my main github account.search ChamodKeshan.  nice to meet  you&image=https://github.com/Sha-nuxx.png&backgroundColor=%23ecf0f1&whatsapp=wa.me/94702256963_&github=ChamodKeshan&pattern=ticTacToe&colorPattern=%23eaeaea"/
+<p align="center"> <a href="github.com/Sha-nuxx"><img align="center" src="https://cardivo.vercel.app/api?name=Sha-nuxx&description=Hi,I am Sha-nuxx.My oraginal name is ChamodKeshan.you can contact my main github account.search ChamodKeshan.  nice to meet  you&image=https://github.com/Sha-nuxx.png&backgroundColor=%23ecf0f1&whatsapp=wa.me/94702256963_&github=ChamodKeshan&pattern=ticTacToe&colorPattern=%23eaeaea"/
                                                        <p
   
                                                        
